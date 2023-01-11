@@ -213,3 +213,6 @@ nav:
       - Backstage Project Structure: 'support/project-structure.md'
   - Glossary: glossary.md
   - FAQ: FAQ.md
+  - VWDocs:
+    - Welcome to VW: 'vwdocs/welcome-to-VW.AC.md'
+    - Cars: 'vwdocs/concepts-vehicles-and-devices.md'
