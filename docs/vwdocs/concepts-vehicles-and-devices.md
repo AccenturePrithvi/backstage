@@ -34,7 +34,7 @@ The main, or Central ECU, is responsible for managing the in-car communication b
 
 In current-generation vehicles, it is common for only the Central ECU (often an HCP5), and possibly the in-vehicle infotainment system's ECU (often an HCP3 and referred to as the "IVIDevice"), to be registered with the VW.AC cloud.
 
-<img src="../vwdocs/Full-Connected-Vehicle-07b.png" alt="Connected Vehicle" />
+<img src="../Full-Connected-Vehicle-07b.png" alt="Connected Vehicle" />
 
 As vehicles advance and devices get smarter and faster, it is likely that more and more devices will be registered in the VW.AC Platform for each vehicle. It is also possible to register numerous devices for a given vehicle in VW.AC as a means of creating a complete catalogue of device details, hardware, firmware, features and capabilities to be leveraged by the business logic of a development partner's application or service.
 
