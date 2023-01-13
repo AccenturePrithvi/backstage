@@ -27,14 +27,14 @@ One electronic control unit could be connected to and manage all the motors, fea
 Another ECU could be in charge of the climate control systems and manage temperature sensors, heating, cooling, and fans. Yet another ECU could manage the rain sensors and automate the windshield wiper motors. These purpose-specific, or zone-based, ECUs are often low-end to mid-range computing devices (such as an HCP1, HCP2, or HCP3) while a **Central ECU** is usually a more powerful HCP5 (High-performance Computing Platform 5) or an In-Car Application Server (ICAS).
 
 ### An HCP5 ECU device<sup>1</sup>
-<img src="../images/training4.0/HCP_ZF_ProAI_02.png" alt="HCP5" /> 
+<img src="../vwdocs/HCP_ZF_ProAI_02.png" alt="HCP5" /> 
 
 ### Central ECU
 The main, or Central ECU, is responsible for managing the in-car communication between the numerous zone-based ECUs distributed throughout the vehicle via a Car Area Network (CANBUS). It is also tasked with communicating to a cloud platform, like the Volkswagen Automotive Cloud, via a wireless Internet connection controlled through a Connection (or communications) Module (ConMod). The Central ECU also has access to a Hardware Security Module (HSM) that is used to manage the encryption and decryption of messages to and from the cloud platform.
 
 In current-generation vehicles, it is common for only the Central ECU (often an HCP5), and possibly the in-vehicle infotainment system's ECU (often an HCP3 and referred to as the "IVIDevice"), to be registered with the VW.AC cloud.
 
-<img src="../images/training4.0/Full-Connected-Vehicle-07b.png" alt="Connected Vehicle" />
+<img src="../vwdocs/Full-Connected-Vehicle-07b.png" alt="Connected Vehicle" />
 
 As vehicles advance and devices get smarter and faster, it is likely that more and more devices will be registered in the VW.AC Platform for each vehicle. It is also possible to register numerous devices for a given vehicle in VW.AC as a means of creating a complete catalogue of device details, hardware, firmware, features and capabilities to be leveraged by the business logic of a development partner's application or service.
 
