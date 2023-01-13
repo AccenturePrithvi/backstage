@@ -39,7 +39,7 @@ Use cases might be as simple as a vehicle's owner using a smartphone app to "loc
 
 The Volkswagen Automotive Cloud provides a broad and flexible platform, enabling developers to create a variety of applications and services that benefit owners, fleet managers, dealers, manufacturers, service departments, and other third parties.
 
-<img src="../docs/vwdocs/automotivecloud.jpg" alt="Volkswagen Automotive Cloud" />
+<img src="../vwdocs/automotivecloud.jpg" alt="Volkswagen Automotive Cloud" />
 
 ### Benefits and use cases
 
