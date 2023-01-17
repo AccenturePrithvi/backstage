@@ -1,1 +1,1 @@
-TechDocs For Volkswagen
+This TechDocs app generates the documents for Volkswagen
