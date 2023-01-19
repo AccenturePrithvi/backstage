@@ -1,4 +1,4 @@
-Two fundamental building blocks in the Volkswagen Automotive Cloud are **Vehicles** and their **Devices**.
+Two fundamental building blocks in the **Volkswagen Automotive Cloud** are **Vehicles** and their **Devices**.
 
 Every developer interaction starts with a vehicle. And every vehicle includes on-board devices that manage the "command and control" of the vehicle's numerous sensors, actuators, and motors.
 
